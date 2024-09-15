@@ -39,17 +39,9 @@ Welcome to the Micromouse Ratatouille project! 🎉 This repository contains the
 1. **Assemble Components**: 🔩 Solder all components onto the PCB according to the design files.
 2. **Connect Motors and Sensors**: 🔌 Wire the motors and sensors to the appropriate pins on the BluePill board.
 3. **Power Up**: ⚡ Connect the battery pack to the power input on the PCB.
-4. **Test Functionality**: 🧪 Run the firmware and test the micromouse's performance.
+4. **Test Functionality**: 🧪 Run the firmware and test the micro mouse's performance.
 
-## Contribution
-
-Contributions are welcome! 🤝 If you have suggestions or improvements, please fork the repository and submit a pull request. For any issues or questions, feel free to open an issue on GitHub. 📝
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
-
-## Acknowledgments
-
-- **STMicroelectronics**: 🌟 For providing the BluePill microcontroller and development tools.
-- **PCB Manufacturer**: 🏭 For fabricating the custom PCB.
