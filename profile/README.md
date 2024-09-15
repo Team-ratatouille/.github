@@ -32,7 +32,7 @@ Welcome to the Micromouse Ratatouille project! 🎉 This repository contains the
 
 ### PCB
 
-![PCB](path/to/pcb_image.png)
+![[PCB]](https://github.com/Team-ratatouille/.github/blob/main/Images/rat_full.png)
 
 ## Assembly Instructions
 
